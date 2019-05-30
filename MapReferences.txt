@@ -1,0 +1,13 @@
+THIS IS A FILE FOR HUMANS
+00- Player House, Downstairs
+01- Player House, Upstairs (used as the starting point)
+02- Pallet Town
+03- Rival's House
+04- Oak's Laboratory
+05- Route 1
+06- Viridian City
+07- Pokemon Center
+08- Pokemon Academy
+09- Poke Mart
+10- Viridian City House
+11- Route 2 (South)

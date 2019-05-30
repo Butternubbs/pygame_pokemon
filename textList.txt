@@ -1,0 +1,15 @@
+000*It’s your favorite game console.*None
+001*-Player's House-*None
+002*It's your PC.*None
+003*It's a bookshelf, filled with books that you've never cared to read.*None
+004*It's your TV! Let's see what's on... ń --=BREAKING NEWS=-- "This is Bill McDill, bringing you a breaking news update. Big bois are invading the city, leaving a wake of destruction in their path! Let's send it over to Sarah in the field." é -STATIC- é "Sarah? Well, I guess she was flattened. Stay tuned for more updates!"*None
+005*It's empty.*None
+006*Yo yo yo, it's yo momma!*None
+007*Who are you?*None
+008*-PALLET TOWN-*None
+009*-Rival's House-*None
+010*-Oak's Laboratory-*None
+011*-ROUTE 1-*None
+012*-To Route 2-*None
+013*Hi, welcome to the Pokemon Center! Let's heal your Pokemon.*heal
+014*It's a PC!*pc

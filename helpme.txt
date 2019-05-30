@@ -1,0 +1,12 @@
+Current objectives:
+1) Create a UI feature that displays the changes to a monster's stats upon level-up
+
+More abstract:
+2A) Create a working Bag system.
+3A) Create the Pokémon menu.
+4A) Create save-files.
+5A) Make working Trainer encounters.
+6A) Make Gyms and Gym badges.
+7A) Make scripted events occur.
+8A) Make NPCs walk around.
+9A) Make TMs/HMs, and HM overworld abilities.

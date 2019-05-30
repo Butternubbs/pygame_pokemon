@@ -1,0 +1,10 @@
+Item Information
+1|Master Ball|ball 255|balls|A special Poke Ball that can catch any Pokemon.
+2|Ultra Ball|ball 2|balls|A really good frickin ball.
+3|Great Ball|ball 1.5|balls|A ball thats a little bit gooder than normal.
+4|Poke Ball|ball 1|balls|A ball you can throw at Pokemon to capture them.
+5|Safari Ball|ball 1.5|balls|A special Poke Ball that can only be used in the Safari Zone.
+6|Map|map|key items|Your town map.
+7|Bicycle|bike|key items|Your bike. Use to go fast.
+8|Pokedex|dex|key items|Holds info about the Pokemon you've encountered.
+9|Old Amber|fossil 1|key items|A mysterious fossil.

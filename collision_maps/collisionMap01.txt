@@ -1,0 +1,10 @@
+t t t t t t t t t t
+t t t t t t t t e t
+t d:2 f t t d:3 d:3 f f t
+t f f f f f f f f t
+t f f f f f f f f t
+t f f f d:0 f f f f t
+t f f f f f f f f t
+t t f f f f f f f t
+t u f f f f f f f t
+t t t t t t t t t t

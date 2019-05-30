@@ -1,0 +1,7 @@
+Growl 40
+Poison-Sting 35
+Sand-Attack 15
+Scratch 35
+String-Shot 40
+Tackle 35
+Tail-Whip 30
